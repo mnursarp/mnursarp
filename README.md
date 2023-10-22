@@ -1,6 +1,5 @@
 # 💫 About Me:
-I graduated from Ankara Medipol University Computer Programming associate degree. Now, I am an open education student at Anadolu University Management Information Systems undergraduate department.<br>I'm interested in web development and game development.
-
+I graduated from Ankara Medipol University Computer Programming associate degree. Now, I am an open education student at Anadolu University Management Information Systems undergraduate department. I'm interested in web development and game development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/makbule-nur-sarp-985a52266/) 
